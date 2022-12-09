@@ -8483,6 +8483,19 @@
         }
       ],
       "id": "F566*e10e1f2f-8461-4135-8a9f-947e97df8941"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1354*20b2f185-810b-400f-bc51-eeb6f44fb52c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I688*4c7e2679-e02b-4fd9-bf51-69e8069dab93"
+        }
+      ],
+      "id": "F567*9968919d-2675-4c39-8d5f-cc58a6d07f84"
     }
   ],
   "head": {
@@ -19386,6 +19399,11 @@
       "famc": [
         {
           "ref": "F282*d30d480a-bb32-42a4-a4b8-c1544abcea75"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F567*9968919d-2675-4c39-8d5f-cc58a6d07f84"
         }
       ],
       "id": "I688*4c7e2679-e02b-4fd9-bf51-69e8069dab93",
@@ -33408,6 +33426,25 @@
       "names": [
         {
           "value": "Marselo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F567*9968919d-2675-4c39-8d5f-cc58a6d07f84"
+        }
+      ],
+      "id": "I1354*20b2f185-810b-400f-bc51-eeb6f44fb52c",
+      "names": [
+        {
+          "value": "Jonathan  //"
         }
       ],
       "eventsFacts": [
