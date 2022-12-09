@@ -10595,6 +10595,10 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     },
