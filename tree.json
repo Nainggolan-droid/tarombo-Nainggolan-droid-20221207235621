@@ -7297,6 +7297,9 @@
       "childRefs": [
         {
           "ref": "I1162*11f632ce-b9f3-48e0-ad47-d995bd792d20"
+        },
+        {
+          "ref": "I1353*55e37940-1d1b-4421-a7f3-1de516cdee64"
         }
       ],
       "husbandRefs": [
@@ -33380,6 +33383,25 @@
       "names": [
         {
           "value": "Ganda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F496*9dbf9a91-1e84-48ea-b388-ffb9c15124ed"
+        }
+      ],
+      "id": "I1353*55e37940-1d1b-4421-a7f3-1de516cdee64",
+      "names": [
+        {
+          "value": "Marselo //"
         }
       ],
       "eventsFacts": [
