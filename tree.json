@@ -8467,6 +8467,19 @@
           "ref": "I1347*9a5d2c28-b86e-483c-bf34-80b5918f5620"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1352*f00b6d21-3ab3-4876-9c85-2db081065807"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1125*7a7cfae8-6aa1-434d-aa5a-ba11390600fb"
+        }
+      ],
+      "id": "F566*e10e1f2f-8461-4135-8a9f-947e97df8941"
     }
   ],
   "head": {
@@ -11937,6 +11950,11 @@
       "famc": [
         {
           "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F566*e10e1f2f-8461-4135-8a9f-947e97df8941"
         }
       ],
       "id": "I1125*7a7cfae8-6aa1-434d-aa5a-ba11390600fb",
@@ -33343,6 +33361,25 @@
       "names": [
         {
           "value": "Valentinus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F566*e10e1f2f-8461-4135-8a9f-947e97df8941"
+        }
+      ],
+      "id": "I1352*f00b6d21-3ab3-4876-9c85-2db081065807",
+      "names": [
+        {
+          "value": "Ganda //"
         }
       ],
       "eventsFacts": [
