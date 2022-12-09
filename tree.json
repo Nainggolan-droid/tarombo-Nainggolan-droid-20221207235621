@@ -4545,6 +4545,9 @@
         },
         {
           "ref": "I685*9e7bcaa5-c2cd-4eeb-8b02-3d65bdb6538d"
+        },
+        {
+          "ref": "I1350*eca860c5-9054-4a4e-a275-d487a6cefb56"
         }
       ],
       "husbandRefs": [
@@ -33305,6 +33308,25 @@
       "names": [
         {
           "value": "Tambunan //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F281*2b773c9b-d629-4b18-8df3-c1e5ad8b24a1"
+        }
+      ],
+      "id": "I1350*eca860c5-9054-4a4e-a275-d487a6cefb56",
+      "names": [
+        {
+          "value": "Juli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
