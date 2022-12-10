@@ -22861,13 +22861,17 @@
       "id": "I598*46a1adbb-4f4e-42df-ab36-c63d4e523cc5",
       "names": [
         {
-          "value": "Op.Tianggur //"
+          "value": "Op.Tianggur /Raja Hizkia/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "place": "Harian Samosir",
+          "tag": "DEAT"
         }
       ]
     },
