@@ -8509,6 +8509,19 @@
         }
       ],
       "id": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1356*83cfeef4-042a-4139-933b-ddb23aee39ae"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I598*46a1adbb-4f4e-42df-ab36-c63d4e523cc5"
+        }
+      ],
+      "id": "F569*6a6bca76-82c6-4586-bd03-28f5fab2d718"
     }
   ],
   "head": {
@@ -22858,6 +22871,11 @@
           "ref": "F251*59a2e2b6-300d-4a6f-96e5-51b3b480fea7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F569*6a6bca76-82c6-4586-bd03-28f5fab2d718"
+        }
+      ],
       "id": "I598*46a1adbb-4f4e-42df-ab36-c63d4e523cc5",
       "names": [
         {
@@ -33512,6 +33530,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F569*6a6bca76-82c6-4586-bd03-28f5fab2d718"
+        }
+      ],
+      "id": "I1356*83cfeef4-042a-4139-933b-ddb23aee39ae",
+      "names": [
+        {
+          "value": "A. Tianggur /Raja Hizkia/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "place": "Samosir",
+          "tag": "DEAT"
         }
       ]
     }
