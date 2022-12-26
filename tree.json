@@ -8541,6 +8541,19 @@
         }
       ],
       "id": "F571*829dabe1-b341-4876-9ffd-933d814677a0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1359*1d882f66-324a-4ac3-9439-77989e09220c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1357*17be880c-5ed7-412a-9ead-5650d0b3f0c8"
+        }
+      ],
+      "id": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
     }
   ],
   "head": {
@@ -33572,6 +33585,11 @@
           "ref": "F571*829dabe1-b341-4876-9ffd-933d814677a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
       "id": "I1357*17be880c-5ed7-412a-9ead-5650d0b3f0c8",
       "names": [
         {
@@ -33599,6 +33617,29 @@
       "names": [
         {
           "value": "Op. Medi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
+      "id": "I1359*1d882f66-324a-4ac3-9439-77989e09220c",
+      "names": [
+        {
+          "value": "Op. Jinur //"
         }
       ],
       "eventsFacts": [
