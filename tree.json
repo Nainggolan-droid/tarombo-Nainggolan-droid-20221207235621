@@ -8549,6 +8549,9 @@
         },
         {
           "ref": "I1360*8cf4e228-326e-4055-a436-1dab1537c383"
+        },
+        {
+          "ref": "I1361*9c8d541e-a76d-48d9-8698-4926955bebdc"
         }
       ],
       "husbandRefs": [
@@ -33675,6 +33678,29 @@
         }
       ],
       "media": []
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
+      "id": "I1361*9c8d541e-a76d-48d9-8698-4926955bebdc",
+      "names": [
+        {
+          "value": "Op. Robin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
     }
   ],
   "sources": [
