@@ -8555,6 +8555,9 @@
         },
         {
           "ref": "I1362*9fb3049e-5e5a-43bf-b8b2-7d79a13f7ef4"
+        },
+        {
+          "ref": "I1363*2a1752af-3af5-4472-a7e8-7177cc9a93ca"
         }
       ],
       "husbandRefs": [
@@ -33715,6 +33718,29 @@
       "names": [
         {
           "value": "Op. Si Keby //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
+      "id": "I1363*2a1752af-3af5-4472-a7e8-7177cc9a93ca",
+      "names": [
+        {
+          "value": "Op. Roseli //"
         }
       ],
       "eventsFacts": [
