@@ -8525,6 +8525,19 @@
     },
     {
       "id": "F570*96b0d6d2-0bf4-41d9-96cb-5d5ef49b1b3e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1357*17be880c-5ed7-412a-9ead-5650d0b3f0c8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1216*ceda58dc-b635-40bc-b13b-8fb94dcbc971"
+        }
+      ],
+      "id": "F571*829dabe1-b341-4876-9ffd-933d814677a0"
     }
   ],
   "head": {
@@ -30796,6 +30809,11 @@
           "ref": "F508*75cdfbc2-3071-466e-bd00-de7b4105a24d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F571*829dabe1-b341-4876-9ffd-933d814677a0"
+        }
+      ],
       "id": "I1216*ceda58dc-b635-40bc-b13b-8fb94dcbc971",
       "names": [
         {
@@ -33542,6 +33560,29 @@
         {
           "place": "Samosir",
           "tag": "DEAT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F571*829dabe1-b341-4876-9ffd-933d814677a0"
+        }
+      ],
+      "id": "I1357*17be880c-5ed7-412a-9ead-5650d0b3f0c8",
+      "names": [
+        {
+          "value": "Op. Jinur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
