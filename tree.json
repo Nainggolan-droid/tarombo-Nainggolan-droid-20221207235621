@@ -8546,6 +8546,9 @@
       "childRefs": [
         {
           "ref": "I1359*1d882f66-324a-4ac3-9439-77989e09220c"
+        },
+        {
+          "ref": "I1360*8cf4e228-326e-4055-a436-1dab1537c383"
         }
       ],
       "husbandRefs": [
@@ -33652,6 +33655,26 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
+      "id": "I1360*8cf4e228-326e-4055-a436-1dab1537c383",
+      "names": [
+        {
+          "value": "Op. Argide //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "_PRIV",
+          "value": ""
+        }
+      ],
+      "media": []
     }
   ],
   "sources": [
