@@ -8552,6 +8552,9 @@
         },
         {
           "ref": "I1361*9c8d541e-a76d-48d9-8698-4926955bebdc"
+        },
+        {
+          "ref": "I1362*9fb3049e-5e5a-43bf-b8b2-7d79a13f7ef4"
         }
       ],
       "husbandRefs": [
@@ -33689,6 +33692,29 @@
       "names": [
         {
           "value": "Op. Robin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+        }
+      ],
+      "id": "I1362*9fb3049e-5e5a-43bf-b8b2-7d79a13f7ef4",
+      "names": [
+        {
+          "value": "Op. Si Keby //"
         }
       ],
       "eventsFacts": [
