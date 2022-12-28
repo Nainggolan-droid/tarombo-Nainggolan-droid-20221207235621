@@ -8500,10 +8500,7 @@
     {
       "childRefs": [
         {
-          "ref": "I1364*90502fb0-c9a8-44a4-92f6-483622067ac0"
-        },
-        {
-          "ref": "I1365*00f42fcd-3ba4-44bd-b7d5-62172eb2581e"
+          "ref": "I1355*9718064a-0b3c-41ed-9ac1-34a92f9845b0"
         }
       ],
       "husbandRefs": [
@@ -33555,6 +33552,25 @@
     {
       "famc": [
         {
+          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
+        }
+      ],
+      "id": "I1355*9718064a-0b3c-41ed-9ac1-34a92f9845b0",
+      "names": [
+        {
+          "value": "Desmon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
           "ref": "F569*6a6bca76-82c6-4586-bd03-28f5fab2d718"
         }
       ],
@@ -33589,7 +33605,7 @@
       "id": "I1357*17be880c-5ed7-412a-9ead-5650d0b3f0c8",
       "names": [
         {
-          "value": "Op. Jinur //"
+          "value": "Op.Jinur //"
         }
       ],
       "eventsFacts": [
@@ -33735,44 +33751,6 @@
         {
           "tag": "DEAT",
           "value": "Y"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
-        }
-      ],
-      "id": "I1364*90502fb0-c9a8-44a4-92f6-483622067ac0",
-      "names": [
-        {
-          "value": "Imel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
-        }
-      ],
-      "id": "I1365*00f42fcd-3ba4-44bd-b7d5-62172eb2581e",
-      "names": [
-        {
-          "value": "Desmon //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     }
