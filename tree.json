@@ -8501,6 +8501,9 @@
       "childRefs": [
         {
           "ref": "I1364*90502fb0-c9a8-44a4-92f6-483622067ac0"
+        },
+        {
+          "ref": "I1365*00f42fcd-3ba4-44bd-b7d5-62172eb2581e"
         }
       ],
       "husbandRefs": [
@@ -33751,6 +33754,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
+        }
+      ],
+      "id": "I1365*00f42fcd-3ba4-44bd-b7d5-62172eb2581e",
+      "names": [
+        {
+          "value": "Desmon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
