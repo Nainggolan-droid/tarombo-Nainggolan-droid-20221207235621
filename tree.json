@@ -7106,9 +7106,6 @@
         },
         {
           "ref": "I1351*0380d9dd-477e-48fb-b627-9c03a986d2bd"
-        },
-        {
-          "ref": "I1366*0ff25202-5789-4d28-a418-7878d0db9770"
         }
       ],
       "husbandRefs": [
@@ -33770,25 +33767,6 @@
       "names": [
         {
           "value": "Desmon //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "id": "I1366*0ff25202-5789-4d28-a418-7878d0db9770",
-      "names": [
-        {
-          "value": "Berdiaman //"
         }
       ],
       "eventsFacts": [
