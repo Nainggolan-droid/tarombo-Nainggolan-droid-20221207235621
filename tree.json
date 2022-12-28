@@ -8501,9 +8501,6 @@
       "childRefs": [
         {
           "ref": "I1355*9718064a-0b3c-41ed-9ac1-34a92f9845b0"
-        },
-        {
-          "ref": "I1364*9531f92f-0f73-48e8-850e-df5eacd0ff27"
         }
       ],
       "husbandRefs": [
@@ -33754,25 +33751,6 @@
         {
           "tag": "DEAT",
           "value": "Y"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
-        }
-      ],
-      "id": "I1364*9531f92f-0f73-48e8-850e-df5eacd0ff27",
-      "names": [
-        {
-          "value": "Imel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     }
