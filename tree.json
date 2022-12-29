@@ -8694,6 +8694,9 @@
       "childRefs": [
         {
           "ref": "I1385*cd2fa949-1968-4389-a496-45bb927bd668"
+        },
+        {
+          "ref": "I1386*7e56d7a6-7f58-426b-adfb-fa5f47d19b43"
         }
       ],
       "husbandRefs": [
@@ -34356,6 +34359,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F579*21078fa1-c47d-45e2-b81d-86cdeb23ea76"
+        }
+      ],
+      "id": "I1386*7e56d7a6-7f58-426b-adfb-fa5f47d19b43",
+      "names": [
+        {
+          "value": "Febe //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
