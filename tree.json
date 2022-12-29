@@ -8665,6 +8665,9 @@
         },
         {
           "ref": "I1382*f13e8043-abf3-4173-a20b-dd32dbd024c7"
+        },
+        {
+          "ref": "I1383*88b5152f-7257-4bc9-a1a3-48fd95946231"
         }
       ],
       "husbandRefs": [
@@ -34254,6 +34257,25 @@
       "names": [
         {
           "value": "Matthew //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F577*d918693b-c378-4b30-98bc-c77be9143bb9"
+        }
+      ],
+      "id": "I1383*88b5152f-7257-4bc9-a1a3-48fd95946231",
+      "names": [
+        {
+          "value": "Justin //"
         }
       ],
       "eventsFacts": [
