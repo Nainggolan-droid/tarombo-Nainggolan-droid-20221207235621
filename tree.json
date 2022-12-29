@@ -8621,6 +8621,9 @@
       "childRefs": [
         {
           "ref": "I1374*e8b9a700-748b-4efa-aa98-33cf113f9705"
+        },
+        {
+          "ref": "I1375*cb3903e7-c499-453b-82f2-06a93b3d88cc"
         }
       ],
       "husbandRefs": [
@@ -34048,6 +34051,25 @@
       "names": [
         {
           "value": "Jonathan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+        }
+      ],
+      "id": "I1375*cb3903e7-c499-453b-82f2-06a93b3d88cc",
+      "names": [
+        {
+          "value": "Morgan //"
         }
       ],
       "eventsFacts": [
