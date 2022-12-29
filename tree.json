@@ -8624,6 +8624,9 @@
         },
         {
           "ref": "I1375*cb3903e7-c499-453b-82f2-06a93b3d88cc"
+        },
+        {
+          "ref": "I1376*29ce171b-c4dd-40ab-a168-c0d3496220d0"
         }
       ],
       "husbandRefs": [
@@ -34070,6 +34073,25 @@
       "names": [
         {
           "value": "Morgan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+        }
+      ],
+      "id": "I1376*29ce171b-c4dd-40ab-a168-c0d3496220d0",
+      "names": [
+        {
+          "value": "Faldi //"
         }
       ],
       "eventsFacts": [
