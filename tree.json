@@ -8659,6 +8659,9 @@
       "childRefs": [
         {
           "ref": "I1380*c4e7042b-a9f0-49ed-9c15-b10a974861c4"
+        },
+        {
+          "ref": "I1381*56c3da1e-39af-4c13-b09a-405c37e0c51b"
         }
       ],
       "husbandRefs": [
@@ -34210,6 +34213,25 @@
       "names": [
         {
           "value": "Immanuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F577*d918693b-c378-4b30-98bc-c77be9143bb9"
+        }
+      ],
+      "id": "I1381*56c3da1e-39af-4c13-b09a-405c37e0c51b",
+      "names": [
+        {
+          "value": "Marco //"
         }
       ],
       "eventsFacts": [
