@@ -8593,6 +8593,9 @@
         },
         {
           "ref": "I1368*7918aa65-3b37-49f2-93a3-a0ded771adbe"
+        },
+        {
+          "ref": "I1369*b1d6b1b2-2316-4e39-8bc4-21dad91959f5"
         }
       ],
       "husbandRefs": [
@@ -33893,6 +33896,25 @@
       "names": [
         {
           "value": "A. Yehuda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+        }
+      ],
+      "id": "I1369*b1d6b1b2-2316-4e39-8bc4-21dad91959f5",
+      "names": [
+        {
+          "value": "A. Immanuel //"
         }
       ],
       "eventsFacts": [
