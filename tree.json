@@ -8585,6 +8585,19 @@
         }
       ],
       "id": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1367*da955ae2-ea7c-4dca-84e4-70175ad61dd3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1365*3511e2c0-d232-4c16-b982-80f3f34a69c8"
+        }
+      ],
+      "id": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
     }
   ],
   "head": {
@@ -33807,6 +33820,11 @@
           "ref": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+        }
+      ],
       "id": "I1365*3511e2c0-d232-4c16-b982-80f3f34a69c8",
       "names": [
         {
@@ -33834,6 +33852,25 @@
       "names": [
         {
           "value": "A. Roin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+        }
+      ],
+      "id": "I1367*da955ae2-ea7c-4dca-84e4-70175ad61dd3",
+      "names": [
+        {
+          "value": "A. Jonathan //"
         }
       ],
       "eventsFacts": [
