@@ -8616,6 +8616,19 @@
         }
       ],
       "id": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1374*e8b9a700-748b-4efa-aa98-33cf113f9705"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1367*da955ae2-ea7c-4dca-84e4-70175ad61dd3"
+        }
+      ],
+      "id": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
     }
   ],
   "head": {
@@ -33885,6 +33898,11 @@
           "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+        }
+      ],
       "id": "I1367*da955ae2-ea7c-4dca-84e4-70175ad61dd3",
       "names": [
         {
@@ -34017,6 +34035,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+        }
+      ],
+      "id": "I1374*e8b9a700-748b-4efa-aa98-33cf113f9705",
+      "names": [
+        {
+          "value": "Jonathan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
