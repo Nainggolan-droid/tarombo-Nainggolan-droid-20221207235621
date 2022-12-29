@@ -8596,6 +8596,9 @@
         },
         {
           "ref": "I1369*b1d6b1b2-2316-4e39-8bc4-21dad91959f5"
+        },
+        {
+          "ref": "I1370*18bb1957-ac58-4d1d-ad9b-cd7686dfcc8a"
         }
       ],
       "husbandRefs": [
@@ -33921,6 +33924,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+        }
+      ],
+      "id": "I1370*18bb1957-ac58-4d1d-ad9b-cd7686dfcc8a",
+      "names": [
+        {
+          "value": "A. Vincent //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
