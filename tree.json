@@ -8627,6 +8627,9 @@
         },
         {
           "ref": "I1376*29ce171b-c4dd-40ab-a168-c0d3496220d0"
+        },
+        {
+          "ref": "I1377*77baba23-212c-4b9c-a854-6b3c61899a32"
         }
       ],
       "husbandRefs": [
@@ -34092,6 +34095,25 @@
       "names": [
         {
           "value": "Faldi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+        }
+      ],
+      "id": "I1377*77baba23-212c-4b9c-a854-6b3c61899a32",
+      "names": [
+        {
+          "value": "Faldo //"
         }
       ],
       "eventsFacts": [
