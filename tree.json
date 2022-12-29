@@ -8574,6 +8574,9 @@
         },
         {
           "ref": "I1365*3511e2c0-d232-4c16-b982-80f3f34a69c8"
+        },
+        {
+          "ref": "I1366*8f3aadf9-9a3d-4fef-984a-f49c1190f8fc"
         }
       ],
       "husbandRefs": [
@@ -33818,6 +33821,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
+        }
+      ],
+      "id": "I1366*8f3aadf9-9a3d-4fef-984a-f49c1190f8fc",
+      "names": [
+        {
+          "value": "A. Roin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
