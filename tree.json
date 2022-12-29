@@ -8676,6 +8676,19 @@
         }
       ],
       "id": "F577*d918693b-c378-4b30-98bc-c77be9143bb9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1384*112b7135-f1c3-4dfd-899c-e57d2fc4d9e5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1370*18bb1957-ac58-4d1d-ad9b-cd7686dfcc8a"
+        }
+      ],
+      "id": "F578*f440c555-c8c3-4b8d-b70a-fb5141cceb79"
     }
   ],
   "head": {
@@ -34017,6 +34030,11 @@
           "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F578*f440c555-c8c3-4b8d-b70a-fb5141cceb79"
+        }
+      ],
       "id": "I1370*18bb1957-ac58-4d1d-ad9b-cd7686dfcc8a",
       "names": [
         {
@@ -34276,6 +34294,25 @@
       "names": [
         {
           "value": "Justin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F578*f440c555-c8c3-4b8d-b70a-fb5141cceb79"
+        }
+      ],
+      "id": "I1384*112b7135-f1c3-4dfd-899c-e57d2fc4d9e5",
+      "names": [
+        {
+          "value": "Vincent //"
         }
       ],
       "eventsFacts": [
