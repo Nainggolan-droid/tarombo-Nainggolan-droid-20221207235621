@@ -8605,6 +8605,9 @@
         },
         {
           "ref": "I1372*aa90c4a0-a998-42d5-b807-46cbb9227100"
+        },
+        {
+          "ref": "I1373*60bd6697-fd14-4fae-ac77-97818902118e"
         }
       ],
       "husbandRefs": [
@@ -33991,6 +33994,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
+        }
+      ],
+      "id": "I1373*60bd6697-fd14-4fae-ac77-97818902118e",
+      "names": [
+        {
+          "value": "A. Alvin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
