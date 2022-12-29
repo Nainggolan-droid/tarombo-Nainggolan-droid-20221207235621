@@ -8638,6 +8638,22 @@
         }
       ],
       "id": "F575*2e4fbf25-5563-4165-ab24-7114320b1ef0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1378*e3dd037b-b6bf-407f-9a29-8d61dbc00457"
+        },
+        {
+          "ref": "I1379*c3b99447-a8be-4bb4-a7a7-164e65e8cd76"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1368*7918aa65-3b37-49f2-93a3-a0ded771adbe"
+        }
+      ],
+      "id": "F576*95579462-ebb1-498e-a975-a044bf49a253"
     }
   ],
   "head": {
@@ -33931,6 +33947,11 @@
           "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F576*95579462-ebb1-498e-a975-a044bf49a253"
+        }
+      ],
       "id": "I1368*7918aa65-3b37-49f2-93a3-a0ded771adbe",
       "names": [
         {
@@ -34120,6 +34141,44 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*95579462-ebb1-498e-a975-a044bf49a253"
+        }
+      ],
+      "id": "I1378*e3dd037b-b6bf-407f-9a29-8d61dbc00457",
+      "names": [
+        {
+          "value": "Yehuda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*95579462-ebb1-498e-a975-a044bf49a253"
+        }
+      ],
+      "id": "I1379*c3b99447-a8be-4bb4-a7a7-164e65e8cd76",
+      "names": [
+        {
+          "value": "Vany //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
