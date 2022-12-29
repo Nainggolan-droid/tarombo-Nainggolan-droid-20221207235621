@@ -8566,6 +8566,22 @@
         }
       ],
       "id": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1364*d7372b83-c9fe-44c0-9a05-b0e77014116f"
+        },
+        {
+          "ref": "I1365*3511e2c0-d232-4c16-b982-80f3f34a69c8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1361*9c8d541e-a76d-48d9-8698-4926955bebdc"
+        }
+      ],
+      "id": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
     }
   ],
   "head": {
@@ -33691,6 +33707,11 @@
           "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
+        }
+      ],
       "id": "I1361*9c8d541e-a76d-48d9-8698-4926955bebdc",
       "names": [
         {
@@ -33741,6 +33762,52 @@
       "names": [
         {
           "value": "A.Parenggan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
+        }
+      ],
+      "id": "I1364*d7372b83-c9fe-44c0-9a05-b0e77014116f",
+      "names": [
+        {
+          "value": "Op. Michael //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F573*6af423d7-cd2b-4e0f-8d34-44a512d7e4fd"
+        }
+      ],
+      "id": "I1365*3511e2c0-d232-4c16-b982-80f3f34a69c8",
+      "names": [
+        {
+          "value": "Op. Jonathan //"
         }
       ],
       "eventsFacts": [
