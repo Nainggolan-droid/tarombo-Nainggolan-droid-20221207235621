@@ -8689,6 +8689,19 @@
         }
       ],
       "id": "F578*f440c555-c8c3-4b8d-b70a-fb5141cceb79"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1385*cd2fa949-1968-4389-a496-45bb927bd668"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1371*c559bfef-8cf1-493c-8d1b-7489184b2b7b"
+        }
+      ],
+      "id": "F579*21078fa1-c47d-45e2-b81d-86cdeb23ea76"
     }
   ],
   "head": {
@@ -34058,6 +34071,11 @@
           "ref": "F574*92f56bc1-76a4-4f93-96c4-3850d20fe5c5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F579*21078fa1-c47d-45e2-b81d-86cdeb23ea76"
+        }
+      ],
       "id": "I1371*c559bfef-8cf1-493c-8d1b-7489184b2b7b",
       "names": [
         {
@@ -34319,6 +34337,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F579*21078fa1-c47d-45e2-b81d-86cdeb23ea76"
+        }
+      ],
+      "id": "I1385*cd2fa949-1968-4389-a496-45bb927bd668",
+      "names": [
+        {
+          "value": "Abigail //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
