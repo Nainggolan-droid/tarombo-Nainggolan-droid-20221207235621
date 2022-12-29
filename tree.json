@@ -8710,6 +8710,9 @@
       "childRefs": [
         {
           "ref": "I1387*05598954-197f-4045-9e39-2e17a109b644"
+        },
+        {
+          "ref": "I1388*964747a2-c368-4397-b0e6-dfbf04fecba4"
         }
       ],
       "husbandRefs": [
@@ -34409,6 +34412,25 @@
       "names": [
         {
           "value": "Cello //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F580*2dd28715-fb03-47b8-abe7-f0285ff803cd"
+        }
+      ],
+      "id": "I1388*964747a2-c368-4397-b0e6-dfbf04fecba4",
+      "names": [
+        {
+          "value": "Noah //"
         }
       ],
       "eventsFacts": [
