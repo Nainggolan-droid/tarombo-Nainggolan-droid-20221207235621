@@ -8472,11 +8472,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1352*f00b6d21-3ab3-4876-9c85-2db081065807"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1125*7a7cfae8-6aa1-434d-aa5a-ba11390600fb"
@@ -12225,13 +12221,17 @@
       "id": "I1125*7a7cfae8-6aa1-434d-aa5a-ba11390600fb",
       "names": [
         {
-          "value": "Bangun //"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "_CONN",
+          "value": "Nainggolan-droid/tarombo-Nainggolan-droid-20221230194514"
         }
       ]
     },
@@ -33654,25 +33654,6 @@
       "names": [
         {
           "value": "Valentinus //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F566*e10e1f2f-8461-4135-8a9f-947e97df8941"
-        }
-      ],
-      "id": "I1352*f00b6d21-3ab3-4876-9c85-2db081065807",
-      "names": [
-        {
-          "value": "Ganda //"
         }
       ],
       "eventsFacts": [
