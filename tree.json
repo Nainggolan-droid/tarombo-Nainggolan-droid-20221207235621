@@ -7097,6 +7097,9 @@
         },
         {
           "ref": "I1390*aa46f22e-4d5a-4ea5-ae36-d20a57d0e284"
+        },
+        {
+          "ref": "I1391*3cc1fc93-762d-45e9-aee6-398ac97963cc"
         }
       ],
       "husbandRefs": [
@@ -34376,6 +34379,25 @@
       "names": [
         {
           "value": "Bangun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
+        }
+      ],
+      "id": "I1391*3cc1fc93-762d-45e9-aee6-398ac97963cc",
+      "names": [
+        {
+          "value": "Berdiaman //"
         }
       ],
       "eventsFacts": [
