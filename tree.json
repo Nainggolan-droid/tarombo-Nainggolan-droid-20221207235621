@@ -7094,9 +7094,6 @@
       "childRefs": [
         {
           "ref": "I1125*7a7cfae8-6aa1-434d-aa5a-ba11390600fb"
-        },
-        {
-          "ref": "I1126*1b8ce9cf-9c28-4639-a25c-c1f5948ba0d8"
         }
       ],
       "husbandRefs": [
@@ -8881,26 +8878,6 @@
       "names": [
         {
           "value": "... //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "fams": [],
-      "id": "I1126*1b8ce9cf-9c28-4639-a25c-c1f5948ba0d8",
-      "names": [
-        {
-          "value": "Horas //"
         }
       ],
       "eventsFacts": [
