@@ -7106,9 +7106,6 @@
         },
         {
           "ref": "I1351*0380d9dd-477e-48fb-b627-9c03a986d2bd"
-        },
-        {
-          "ref": "I1390*1240c279-42ea-4575-b856-695a3dcaf6be"
         }
       ],
       "husbandRefs": [
@@ -34474,25 +34471,6 @@
       "names": [
         {
           "value": "Alvin //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "id": "I1390*1240c279-42ea-4575-b856-695a3dcaf6be",
-      "names": [
-        {
-          "value": "Berdiaman //"
         }
       ],
       "eventsFacts": [
