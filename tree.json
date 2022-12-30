@@ -7100,6 +7100,9 @@
         },
         {
           "ref": "I1391*3cc1fc93-762d-45e9-aee6-398ac97963cc"
+        },
+        {
+          "ref": "I1392*c1a19bc0-6dd1-4af0-9a87-03e8d784c053"
         }
       ],
       "husbandRefs": [
@@ -34398,6 +34401,25 @@
       "names": [
         {
           "value": "Berdiaman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
+        }
+      ],
+      "id": "I1392*c1a19bc0-6dd1-4af0-9a87-03e8d784c053",
+      "names": [
+        {
+          "value": "Horas //"
         }
       ],
       "eventsFacts": [
