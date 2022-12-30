@@ -7103,6 +7103,9 @@
         },
         {
           "ref": "I1392*c1a19bc0-6dd1-4af0-9a87-03e8d784c053"
+        },
+        {
+          "ref": "I1393*15d12cbf-5ceb-4278-8f11-83fb84400118"
         }
       ],
       "husbandRefs": [
@@ -34420,6 +34423,25 @@
       "names": [
         {
           "value": "Horas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
+        }
+      ],
+      "id": "I1393*15d12cbf-5ceb-4278-8f11-83fb84400118",
+      "names": [
+        {
+          "value": "Manahan //"
         }
       ],
       "eventsFacts": [
