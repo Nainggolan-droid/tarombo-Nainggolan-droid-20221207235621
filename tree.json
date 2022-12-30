@@ -7097,9 +7097,6 @@
         },
         {
           "ref": "I1126*1b8ce9cf-9c28-4639-a25c-c1f5948ba0d8"
-        },
-        {
-          "ref": "I1127*d4e45ed5-1450-4e3c-a327-30744df7b2ca"
         }
       ],
       "husbandRefs": [
@@ -7296,11 +7293,7 @@
           "ref": "I1353*55e37940-1d1b-4421-a7f3-1de516cdee64"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I1127*d4e45ed5-1450-4e3c-a327-30744df7b2ca"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F496*9dbf9a91-1e84-48ea-b388-ffb9c15124ed",
       "wifeRefs": []
     },
@@ -27531,30 +27524,6 @@
       "names": [
         {
           "value": "Tahan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F496*9dbf9a91-1e84-48ea-b388-ffb9c15124ed"
-        }
-      ],
-      "id": "I1127*d4e45ed5-1450-4e3c-a327-30744df7b2ca",
-      "names": [
-        {
-          "value": "Manahan //"
         }
       ],
       "eventsFacts": [
