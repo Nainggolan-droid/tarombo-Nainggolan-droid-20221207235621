@@ -7106,6 +7106,9 @@
         },
         {
           "ref": "I1393*15d12cbf-5ceb-4278-8f11-83fb84400118"
+        },
+        {
+          "ref": "I1394*d5ea688d-0828-4a57-85ea-9e39a8eca1f9"
         }
       ],
       "husbandRefs": [
@@ -34442,6 +34445,25 @@
       "names": [
         {
           "value": "Manahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
+        }
+      ],
+      "id": "I1394*d5ea688d-0828-4a57-85ea-9e39a8eca1f9",
+      "names": [
+        {
+          "value": "Nasib //"
         }
       ],
       "eventsFacts": [
