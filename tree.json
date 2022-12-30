@@ -7103,9 +7103,6 @@
         },
         {
           "ref": "I1128*03158604-255a-44b5-9d76-2d82d4397024"
-        },
-        {
-          "ref": "I1351*0380d9dd-477e-48fb-b627-9c03a986d2bd"
         }
       ],
       "husbandRefs": [
@@ -33641,25 +33638,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "id": "I1351*0380d9dd-477e-48fb-b627-9c03a986d2bd",
-      "names": [
-        {
-          "value": "Valentinus //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
