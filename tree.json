@@ -8750,6 +8750,9 @@
       "childRefs": [
         {
           "ref": "I1397*63ac0173-7bc9-465d-8bda-8744d0440800"
+        },
+        {
+          "ref": "I1398*cf4a5484-3f65-49b6-85fe-d58b3c7e5f84"
         }
       ],
       "husbandRefs": [
@@ -34566,6 +34569,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F583*abbd7548-4945-44d3-a037-671583aefa5f"
+        }
+      ],
+      "id": "I1398*cf4a5484-3f65-49b6-85fe-d58b3c7e5f84",
+      "names": [
+        {
+          "value": "Marcelino //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
