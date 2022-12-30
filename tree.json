@@ -7100,9 +7100,6 @@
         },
         {
           "ref": "I1127*d4e45ed5-1450-4e3c-a327-30744df7b2ca"
-        },
-        {
-          "ref": "I1128*03158604-255a-44b5-9d76-2d82d4397024"
         }
       ],
       "husbandRefs": [
@@ -12588,25 +12585,6 @@
       "names": [
         {
           "value": "Borjok //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F481*6234c2fc-47d4-4c9f-91d4-a3f8a1e8a9ff"
-        }
-      ],
-      "id": "I1128*03158604-255a-44b5-9d76-2d82d4397024",
-      "names": [
-        {
-          "value": "Nasib //"
         }
       ],
       "eventsFacts": [
