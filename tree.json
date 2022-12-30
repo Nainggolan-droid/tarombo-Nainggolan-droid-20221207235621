@@ -8499,9 +8499,6 @@
       "childRefs": [
         {
           "ref": "I1355*9718064a-0b3c-41ed-9ac1-34a92f9845b0"
-        },
-        {
-          "ref": "I1399*a32ecfe8-904c-4d8d-8a09-82005410ce9d"
         }
       ],
       "husbandRefs": [
@@ -34591,25 +34588,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F568*c3f9e969-6283-4e6e-8bcd-7ad90e09f029"
-        }
-      ],
-      "id": "I1399*a32ecfe8-904c-4d8d-8a09-82005410ce9d",
-      "names": [
-        {
-          "value": "Imel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     }
