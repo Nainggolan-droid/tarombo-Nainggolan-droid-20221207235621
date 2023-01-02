@@ -8823,6 +8823,9 @@
         },
         {
           "ref": "I1409*d1e54b48-42d5-4171-9421-b3ca13c0ca93"
+        },
+        {
+          "ref": "I1410*ad33a572-1dba-4401-8f50-e3846a85a1d8"
         }
       ],
       "husbandRefs": [
@@ -34866,6 +34869,25 @@
       "names": [
         {
           "value": "A. Daniel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
+        }
+      ],
+      "id": "I1410*ad33a572-1dba-4401-8f50-e3846a85a1d8",
+      "names": [
+        {
+          "value": "A. Andreas //"
         }
       ],
       "eventsFacts": [
