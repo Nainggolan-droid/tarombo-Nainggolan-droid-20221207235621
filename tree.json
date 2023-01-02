@@ -8777,6 +8777,19 @@
         }
       ],
       "id": "F584*4297d759-f152-44c2-92c2-fd3ba55184b3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1402*6764cb8d-74ff-4507-a1b4-c78b197478d4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1401*7dc8f280-cbe6-4b59-a55e-d069cec16a3f"
+        }
+      ],
+      "id": "F585*1c6ff485-9b5e-43c8-a7ef-f2aadb5d276e"
     }
   ],
   "head": {
@@ -34637,10 +34650,34 @@
           "ref": "F584*4297d759-f152-44c2-92c2-fd3ba55184b3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F585*1c6ff485-9b5e-43c8-a7ef-f2aadb5d276e"
+        }
+      ],
       "id": "I1401*7dc8f280-cbe6-4b59-a55e-d069cec16a3f",
       "names": [
         {
           "value": "A. Joshua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F585*1c6ff485-9b5e-43c8-a7ef-f2aadb5d276e"
+        }
+      ],
+      "id": "I1402*6764cb8d-74ff-4507-a1b4-c78b197478d4",
+      "names": [
+        {
+          "value": "Joshua //"
         }
       ],
       "eventsFacts": [
