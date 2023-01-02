@@ -8820,6 +8820,9 @@
       "childRefs": [
         {
           "ref": "I1408*9bc33a89-d7a1-494e-b97c-4f83f944b6b6"
+        },
+        {
+          "ref": "I1409*d1e54b48-42d5-4171-9421-b3ca13c0ca93"
         }
       ],
       "husbandRefs": [
@@ -34844,6 +34847,25 @@
       "names": [
         {
           "value": "A. Krista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
+        }
+      ],
+      "id": "I1409*d1e54b48-42d5-4171-9421-b3ca13c0ca93",
+      "names": [
+        {
+          "value": "A. Daniel //"
         }
       ],
       "eventsFacts": [
