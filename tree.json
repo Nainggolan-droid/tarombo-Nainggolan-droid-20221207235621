@@ -8837,6 +8837,19 @@
         }
       ],
       "id": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1412*a7f080c9-5a8e-4af9-90c7-9e1c37509016"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1404*b0c95f08-b454-4e77-85eb-cf346f662cc0"
+        }
+      ],
+      "id": "F588*cefaa05a-66ea-465a-8bd3-474337221cdf"
     }
   ],
   "head": {
@@ -34773,6 +34786,11 @@
           "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F588*cefaa05a-66ea-465a-8bd3-474337221cdf"
+        }
+      ],
       "id": "I1404*b0c95f08-b454-4e77-85eb-cf346f662cc0",
       "names": [
         {
@@ -34920,6 +34938,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*cefaa05a-66ea-465a-8bd3-474337221cdf"
+        }
+      ],
+      "id": "I1412*a7f080c9-5a8e-4af9-90c7-9e1c37509016",
+      "names": [
+        {
+          "value": "Nando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
