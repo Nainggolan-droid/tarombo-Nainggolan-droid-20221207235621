@@ -8801,6 +8801,9 @@
         },
         {
           "ref": "I1405*ca752d0b-3092-4402-9a3e-a110785ecc91"
+        },
+        {
+          "ref": "I1406*adf15202-7344-4139-bb10-600d5e18eda5"
         }
       ],
       "husbandRefs": [
@@ -34763,6 +34766,25 @@
       "names": [
         {
           "value": "A. Janri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
+      "id": "I1406*adf15202-7344-4139-bb10-600d5e18eda5",
+      "names": [
+        {
+          "value": "A. Candra //"
         }
       ],
       "eventsFacts": [
