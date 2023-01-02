@@ -8815,6 +8815,19 @@
         }
       ],
       "id": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1408*9bc33a89-d7a1-494e-b97c-4f83f944b6b6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1403*6dba3248-c624-4a60-82c1-4a67af8cb9cf"
+        }
+      ],
+      "id": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
     }
   ],
   "head": {
@@ -34723,6 +34736,11 @@
           "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
+        }
+      ],
       "id": "I1403*6dba3248-c624-4a60-82c1-4a67af8cb9cf",
       "names": [
         {
@@ -34807,6 +34825,25 @@
       "names": [
         {
           "value": "A. Titin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F587*1e082e00-b1bc-47d9-901b-d35a65e38b1b"
+        }
+      ],
+      "id": "I1408*9bc33a89-d7a1-494e-b97c-4f83f944b6b6",
+      "names": [
+        {
+          "value": "A. Krista //"
         }
       ],
       "eventsFacts": [
