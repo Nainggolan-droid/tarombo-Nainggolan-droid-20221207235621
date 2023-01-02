@@ -8804,6 +8804,9 @@
         },
         {
           "ref": "I1406*adf15202-7344-4139-bb10-600d5e18eda5"
+        },
+        {
+          "ref": "I1407*1667a8c2-a360-445e-8d16-084ba2800e86"
         }
       ],
       "husbandRefs": [
@@ -34785,6 +34788,25 @@
       "names": [
         {
           "value": "A. Candra //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
+      "id": "I1407*1667a8c2-a360-445e-8d16-084ba2800e86",
+      "names": [
+        {
+          "value": "A. Titin //"
         }
       ],
       "eventsFacts": [
