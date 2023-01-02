@@ -8795,6 +8795,9 @@
       "childRefs": [
         {
           "ref": "I1403*6dba3248-c624-4a60-82c1-4a67af8cb9cf"
+        },
+        {
+          "ref": "I1404*b0c95f08-b454-4e77-85eb-cf346f662cc0"
         }
       ],
       "husbandRefs": [
@@ -34725,6 +34728,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
+      "id": "I1404*b0c95f08-b454-4e77-85eb-cf346f662cc0",
+      "names": [
+        {
+          "value": "Op. Ni Alexa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
