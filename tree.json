@@ -8790,6 +8790,19 @@
         }
       ],
       "id": "F585*1c6ff485-9b5e-43c8-a7ef-f2aadb5d276e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1403*6dba3248-c624-4a60-82c1-4a67af8cb9cf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1360*8cf4e228-326e-4055-a436-1dab1537c383"
+        }
+      ],
+      "id": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
     }
   ],
   "head": {
@@ -33782,6 +33795,11 @@
           "ref": "F572*ad498aca-4b90-489f-b833-56912fdc25cf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
       "id": "I1360*8cf4e228-326e-4055-a436-1dab1537c383",
       "names": [
         {
@@ -34684,6 +34702,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
+      "id": "I1403*6dba3248-c624-4a60-82c1-4a67af8cb9cf",
+      "names": [
+        {
+          "value": "Op. Crista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
