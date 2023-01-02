@@ -8798,6 +8798,9 @@
         },
         {
           "ref": "I1404*b0c95f08-b454-4e77-85eb-cf346f662cc0"
+        },
+        {
+          "ref": "I1405*ca752d0b-3092-4402-9a3e-a110785ecc91"
         }
       ],
       "husbandRefs": [
@@ -34741,6 +34744,25 @@
       "names": [
         {
           "value": "Op. Ni Alexa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*5cf76050-a7cf-485a-b970-95c82d4b976b"
+        }
+      ],
+      "id": "I1405*ca752d0b-3092-4402-9a3e-a110785ecc91",
+      "names": [
+        {
+          "value": "A. Janri //"
         }
       ],
       "eventsFacts": [
