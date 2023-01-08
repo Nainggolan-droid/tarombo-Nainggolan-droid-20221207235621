@@ -6008,6 +6008,9 @@
       "childRefs": [
         {
           "ref": "I943*0846298c-ed11-45b1-b700-1e752402ed6f"
+        },
+        {
+          "ref": "I1413*b932675d-e147-4ed8-a984-aa108d200fa5"
         }
       ],
       "husbandRefs": [
@@ -34955,6 +34958,25 @@
       "names": [
         {
           "value": "Nando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F393*4f5d8d81-5020-4caa-9515-048a56f5d225"
+        }
+      ],
+      "id": "I1413*b932675d-e147-4ed8-a984-aa108d200fa5",
+      "names": [
+        {
+          "value": "Edgar //"
         }
       ],
       "eventsFacts": [
