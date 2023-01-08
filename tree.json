@@ -8853,6 +8853,19 @@
         }
       ],
       "id": "F588*cefaa05a-66ea-465a-8bd3-474337221cdf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1414*476d8ce1-0452-42ba-9643-7d59c31cef84"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I873*7e66357a-8c68-4d99-85bc-a78d77d9b653"
+        }
+      ],
+      "id": "F589*233e349a-acaa-4098-bb32-3a7bdb314111"
     }
   ],
   "head": {
@@ -28499,6 +28512,11 @@
           "ref": "F363*61aa3ed7-b137-4f60-88af-c2813d68aff0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F589*233e349a-acaa-4098-bb32-3a7bdb314111"
+        }
+      ],
       "id": "I873*7e66357a-8c68-4d99-85bc-a78d77d9b653",
       "names": [
         {
@@ -34977,6 +34995,25 @@
       "names": [
         {
           "value": "Edgar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F589*233e349a-acaa-4098-bb32-3a7bdb314111"
+        }
+      ],
+      "id": "I1414*476d8ce1-0452-42ba-9643-7d59c31cef84",
+      "names": [
+        {
+          "value": "Jonatan //"
         }
       ],
       "eventsFacts": [
