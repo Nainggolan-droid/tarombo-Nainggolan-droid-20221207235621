@@ -8861,6 +8861,9 @@
         },
         {
           "ref": "I1415*ef3e2da8-c520-4e0d-8cb0-e1da9f5bd1f7"
+        },
+        {
+          "ref": "I1416*5e7ae2b1-d5fc-4acd-a32a-f321d0093aef"
         }
       ],
       "husbandRefs": [
@@ -35042,6 +35045,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F589*233e349a-acaa-4098-bb32-3a7bdb314111"
+        }
+      ],
+      "id": "I1416*5e7ae2b1-d5fc-4acd-a32a-f321d0093aef",
+      "names": [
+        {
+          "value": "Isabella //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
