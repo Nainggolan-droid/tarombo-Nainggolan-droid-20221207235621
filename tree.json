@@ -8877,6 +8877,9 @@
       "childRefs": [
         {
           "ref": "I1417*c811b5c8-b62e-4301-ac5e-638abb372dce"
+        },
+        {
+          "ref": "I1418*c29600dd-a7fe-42f7-9a92-344ac686bbe7"
         }
       ],
       "husbandRefs": [
@@ -35095,6 +35098,25 @@
       "names": [
         {
           "value": "Timoty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F590*e2e8238a-3f51-4ffe-a5ac-30abb3ed78d4"
+        }
+      ],
+      "id": "I1418*c29600dd-a7fe-42f7-9a92-344ac686bbe7",
+      "names": [
+        {
+          "value": "Gregory //"
         }
       ],
       "eventsFacts": [
