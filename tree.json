@@ -4623,7 +4623,12 @@
           "ref": "I696*90987d3f-1ed3-4566-b301-477dc5e166ab"
         }
       ],
-      "id": "F284*eb9789a0-7a4a-4b73-8632-fb115a0b173c"
+      "id": "F284*eb9789a0-7a4a-4b73-8632-fb115a0b173c",
+      "wifeRefs": [
+        {
+          "ref": "I1420*66101f9b-d801-4395-8b65-3b1552690cc6"
+        }
+      ]
     },
     {
       "childRefs": [
@@ -35138,6 +35143,25 @@
       "names": [
         {
           "value": "Br.Pangaribuan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F284*eb9789a0-7a4a-4b73-8632-fb115a0b173c"
+        }
+      ],
+      "id": "I1420*66101f9b-d801-4395-8b65-3b1552690cc6",
+      "names": [
+        {
+          "value": "Br.Manalu //"
         }
       ],
       "eventsFacts": [
