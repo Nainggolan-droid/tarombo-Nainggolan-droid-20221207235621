@@ -4641,7 +4641,12 @@
           "ref": "I697*9aa6cdde-af8d-4c3d-8ec2-4b2d9ea63e04"
         }
       ],
-      "id": "F285*5c94614a-d64b-4ef8-8ca6-67d798bfca9a"
+      "id": "F285*5c94614a-d64b-4ef8-8ca6-67d798bfca9a",
+      "wifeRefs": [
+        {
+          "ref": "I1421*89a34e81-3e00-439f-830b-6944dbfa4935"
+        }
+      ]
     },
     {
       "childRefs": [
@@ -35162,6 +35167,25 @@
       "names": [
         {
           "value": "Br.Manalu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F285*5c94614a-d64b-4ef8-8ca6-67d798bfca9a"
+        }
+      ],
+      "id": "I1421*89a34e81-3e00-439f-830b-6944dbfa4935",
+      "names": [
+        {
+          "value": "Br.Smjuntak //"
         }
       ],
       "eventsFacts": [
